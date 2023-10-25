@@ -1,5 +1,3 @@
-Sure, here's a breakdown of the code:
-
 ```go
 package main
 ```
@@ -101,3 +99,4 @@ These lines write the JSON data to a file named "products.json". If an error occ
 }
 ```
 This line marks the end of the main function. When the main function returns, the program ends.
+
